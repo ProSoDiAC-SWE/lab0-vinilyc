@@ -1,20 +1,19 @@
 # Nome Cognome
 
 ## Matricola
-123456
+553701
 
 ## Corso
 Laurea Triennale in Informatica – Programmazione ad Oggetti
 
 ## Chi sono
-Breve descrizione di te (2-3 righe). Racconta qualcosa di te stesso: da dove vieni,
-cosa studi, cosa ti appassiona.
+Vengo da messina, studio ingegneria informatica, mi appassiona l cybersecurity
 
 ## Interessi in Informatica
-- Argomento 1
-- Argomento 2
-- Argomento 3
+- web exploitation
+- binary exploitation
+- programming
 
 ## Contatti
-- GitHub: [@tuousername](https://github.com/tuousername)
-- Email: matricola@studenti.unime.it
+- GitHub: [@vinilyc](https://github.com/vinilyc)
+- Email: marco.morabito.me@gmail.com
